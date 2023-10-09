@@ -1,6 +1,6 @@
 # Проекты в рамках carpov.courses
 [Репозиторий в nbviewer](https://nbviewer.org/github/barikko/Yandex.Practicum-Projects/tree/main/)
-## [Исследование данных с применением когортного анализа и RFM-сегментации](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/first_project.ipynb)
+## [Исследование данных с применением когортного анализа и RFM-сегментации](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/cohort%20analysis%20and%20RFM-segmentation.ipynb)
 **Описание проекта:**
 
 Цель данного проекта проанализировать совершенные покупки и ответить на следующие вопросы:
@@ -19,7 +19,7 @@
 
 **Библиотеки:** pandas, pandasql, seaborn, matplotlib
 
-## [Анализ взаимодействия с рекламными объявлениями](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/mini_project_6.ipynb)
+## [Анализ взаимодействия с рекламными объявлениями](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/analysis%20of%20advertisements.ipynb)
 **Описание проекта:**
 
 Перед вами данные взаимодействий с рекламными объявлениями на некоторой площадке за 6 дней. И таблица с характеристиками рекламных клиентов (тех, кто разместил эти объявления).
@@ -42,7 +42,7 @@
 
 **Библиотеки:** pandas, numpy, matplotlib, seaborn, plotly.express
 
-## [Анализ работы службы доставки](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/task_3.ipynb)
+## [Анализ работы службы доставки](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/delivery%20analysis.ipynb)
 **Описание проекта:**
 
 Компания по доставке продуктов на дом. Сервис доступен как в приложении на ios, так и на android. Есть фронтовая аналитика в AppMetrica, необходимо проанализировать поведение пользователей, а также оценить эффективность каналов их привлечения.
