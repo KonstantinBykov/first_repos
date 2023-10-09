@@ -1,5 +1,4 @@
 # Проекты в рамках carpov.courses
-[Репозиторий в nbviewer](https://nbviewer.org/github/barikko/Yandex.Practicum-Projects/tree/main/)
 ## [Исследование данных с применением когортного анализа и RFM-сегментации](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/cohort%20analysis%20and%20RFM-segmentation.ipynb)
 **Описание проекта:**
 
@@ -55,6 +54,3 @@ MAU.
 Какой платный канал привлечения (среди рекламных) имеет самый высокий ROMI?
 
 **Библиотеки:** pandas, numpy, matplotlib, seaborn
-
-[Ссылка на nbviewer, так как не все объекты отображаются в гитхабе](https://nbviewer.org/github/Barikko/Yandex.Practicum-Projects/blob/main/Анализ%20тарифов%20оператора%20сотовой%20связи.ipynb)
-
