@@ -1,4 +1,4 @@
-# Проекты в рамках carpov.courses
+# Проекты в рамках karpov.courses
 ## [Исследование данных с применением когортного анализа и RFM-сегментации](https://github.com/KonstantinBykov/karpov.courses-projects/blob/master/cohort%20analysis%20and%20RFM-segmentation.ipynb)
 **Описание проекта:**
 
